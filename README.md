@@ -1,4 +1,4 @@
-# shopping-cart
+# Shopping cart - [see deployment here](https://borys-shopping-cart.netlify.app/)
 ## TS/React project
 
 A frontend of an e-commerce shopping cart.
